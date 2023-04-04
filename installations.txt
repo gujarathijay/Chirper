@@ -1,0 +1,9 @@
+Backend - server folder
+
+npm init -yes
+npm i express nodemon
+npm i mongoose
+npm install dotenv
+npm i jsonwebtoken bcryptjs cookie-parser
+
+--------------------------
